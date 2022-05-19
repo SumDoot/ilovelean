@@ -4,5 +4,5 @@ function ilovelean(){
 
 function no(){
     alert("no u");
-    close();
+    window.top.close();
 }
