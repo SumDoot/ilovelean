@@ -7,9 +7,7 @@ function no(){
     alert("global-ip:89.234.274.215");
     alert("Locale:N=10.245454214 E=46.45445");
     
-    for(int x=0; x<1000; x++){
-        document.body.style.backgroundColor = "red";
-        document.body.style.backgroundColor = "green";
-        document.body.style.backgroundColor = "blue";
-    }
+    document.body.style.backgroundColor = "red";
+    document.body.style.backgroundColor = "green";
+    document.body.style.backgroundColor = "blue";
 }
