@@ -7,7 +7,7 @@ function no(){
     alert("global-ip:89.234.274.215");
     alert("Locale:N=10.245454214 E=46.45445");
     
-    while True(){
+    while(True){
         document.body.style.backgroundColor = "red";
         document.body.style.backgroundColor = "green";
         document.body.style.backgroundColor = "blue";
